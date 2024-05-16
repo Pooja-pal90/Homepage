@@ -1,0 +1,20 @@
+.Gradiance{
+    height: 100vh;
+    background-image: radial-gradient( red , blue);
+    
+}
+.pp{
+    background-size: cover;
+    height: 100vh;
+}
+.ab{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+
+.carousel-item{
+    width: 100%;
+    height: 80vh;
+}
